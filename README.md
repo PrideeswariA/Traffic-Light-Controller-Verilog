@@ -32,7 +32,9 @@ Traffic-Light-Controller-Verilog/
 │
 ├── traffic_light.v          # Main RTL design
 ├── traffic_light_tb.v       # Testbench
-|── waveform.png         # Simulation screenshot
+├── waveform.png             # Simulation waveform
+├── rtl_schematic.png        # RTL Schematic
+├── synthesis designfor traffic light.png  # Synthesis Design
 └── README.md
 ```
 
@@ -173,7 +175,7 @@ Time=40   RED=0  YELLOW=0  GREEN=1
 
 ### Waveform Screenshot
 <!-- Add your simulation screenshot below -->
-![Simulation Waveform](simulation/waveform.png)
+![Simulation Waveform](waveform.png)
 
 ---
 
