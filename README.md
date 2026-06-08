@@ -32,8 +32,7 @@ Traffic-Light-Controller-Verilog/
 │
 ├── traffic_light.v          # Main RTL design
 ├── traffic_light_tb.v       # Testbench
-├── waveform.png
-│   └── waveform.png         # Simulation screenshot
+|── waveform.png         # Simulation screenshot
 └── README.md
 ```
 
